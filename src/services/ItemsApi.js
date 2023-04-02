@@ -22,7 +22,7 @@ export class ItemsApi {
 
     const config = {
       params: {
-        key: '30341549-2658c35ea7dbba4c0cdeabc27',
+        key: '30903939-225f3880e246cfaa2c95d8898',
         page: this.page,
         per_page: 12,
         orientation: 'horizontal',
